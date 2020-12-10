@@ -53,3 +53,4 @@ This repository contains list of all my applications which i have built in flutt
 |05|Break Bricks|A minimalistic game to fight against enemies.|[Repo Link](https://github.com/imKashyap/Break-Bricks)|
 |06|Music Player|A music player application.|[Repo Link](https://github.com/imKashyap/Music-Player)|
 07
+08
